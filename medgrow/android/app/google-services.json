@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41285417166",
+    "project_id": "smartmedgrow",
+    "storage_bucket": "smartmedgrow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41285417166:android:a6649a52a051c19ea5789f",
+        "android_client_info": {
+          "package_name": "com.example.medgrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihtja1tw2c0P-Aj9neaoH0EisQ5b7lss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
